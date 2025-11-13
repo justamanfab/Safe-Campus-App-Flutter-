@@ -1,0 +1,5 @@
+name: safe_campus_app
+version: 0.1.0
+description: Safe Campus App
+environment:
+  sdk: '>=2.18.0 <3.0.0'
